@@ -1,0 +1,26 @@
+# pesquisa sobre GIT,GITHUB e VSCODE 
+
+## GIT
+
+- O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. Bash é acrônico para "Bourne Again Shell"
+- O Git Bash é incluído como parte do pacote Git para Windows. Baixe e instale o Git para Windows como todos os outros aplicativos. Após baixar, procure e abra o arquivo .exe para executar o Git Bash.
+- O Git Bash tem as mesmas operações da experiência Bash padrão. É útil rever o uso básico do Bash. O uso avançado do Bash está fora do escopo desse documento focado em Git.
+
+  <img src = "https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png" widht="200px">
+
+
+  ## GITHUB 
+
+  - O GitHub é considerado é uma ferramenta essencial para engenheiros de software, com uma popularidade sem igual. Atualmente, ele acomoda mais de 25 milhões de usuários. 
+  - Isso significa que há um número considerável de profissionais que estão procurando o GitHub para melhorar o fluxo de trabalho e a colaboração.
+  - Em suma, o GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+
+  ![img](https://beecrowd.io/wp-content/uploads/2022/08/Beecrowd-Agosto-6-02-larger.png)
+
+  ## VSCODE
+
+  - Visual Studio Code, também conhecido como VS Code, é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Os recursos incluem suporte para depuração, destaque de sintaxe, preenchimento inteligente de código, snippets, refatoração de código e controle de versão incorporado com Git. 
+  - O Visual Studio Code (VS Code) é um editor de código aberto desenvolvido pela Microsoft . A saber, ele está disponível para Windows, Mac e Linux. É criado com Electron, ferramenta criada pelo GitHub que permite a criação de softwares Desktop com HTML, CSS e JavaScript.
+  - O Visual Studio fornece suporte avançado para o desenvolvimento de JavaScript, usando JavaScript diretamente e também usando o TypeScript , uma linguagem de código aberta que se baseia em JavaScript e é frequentemente usada no desenvolvimento de aplicativos Web de grande porte.
+
+  
